@@ -14,15 +14,12 @@ use App\Http\Controllers\Database;
 */
 
 Route::get('/', function () {
-    // if(session()->has('name')){
-    //     return redirect("profile");
-    // }
+    if(session()->has('name')){
+        return redirect("profile");
+    }
     return view('welcome');
 });
 Route::get("appointment", function(){
-    // if(!session()->has('name')){
-    //     return redirect("/");
-    // }
     return view("appointment");
 });
 Route::get("hospital", function(){
@@ -40,6 +37,9 @@ Route::get("profile", function(){
 });
 Route::get("labs", function(){
     return view("labs");
+});
+Route::get("ambulance", function(){
+    return view("ambulance");
 });
 Route::get("doctor_dashboard", function(){
     return view("doctor_dashboard");

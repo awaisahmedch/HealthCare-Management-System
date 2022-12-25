@@ -83,7 +83,7 @@ border-bottom-right-radius: .3rem;
                 <p class="small mb-0">Where you can take appointment <b>Online </b>to save time 
                 of doctors as well as your's.</p><br>
 
-                <div><a href ="main_dashboard"> <button  type="button"  class ="btn btn-primary btn-block fa-lg gradient-custom-2 mb-3"> Doctor Portal </button></a></div>
+              
               </div>
             </div>
           </div>

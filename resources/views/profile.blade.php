@@ -33,21 +33,22 @@ body {
                     <li class="nav-item active">
                         <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
                     </li>
-                    <li class="nav-item">
+                    <!-- <li class="nav-item">
                         <a class="nav-link" href="#">Link</a>
-                    </li>
+                    </li> -->
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
                             data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                             Menu
                         </a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <a class="dropdown-item" href="">take appointment</a>
-                            <a class="dropdown-item" href="/">give feedback</a>
-                            <a class="dropdown-item" href="/">give feedback</a>
-
+                            <a class="dropdown-item" href="appointment">take Appointment</a>
+                            <a class="dropdown-item" href="#">Send Feedback</a>
+                            <a class="dropdown-item" href="hospital">Check Hospitals Near You</a>
+                            <a class="dropdown-item" href="labs">Check Laboratories around you</a>
+                            <a class="dropdown-item" href="ambulance">Check Ambulance Numbers</a>
                             <div class="dropdown-divider"></div>
-                            <a class="dropdown-item" href="/">hospitals contacts</a>
+                            <!-- <a class="dropdown-item" href="/">hospitals contacts</a> -->
                         </div>
                     </li>
                     <li class="nav-item">
@@ -72,7 +73,7 @@ body {
   <div class="card-body">
     <h5 class="card-title">Take Appointment</h5>
     <p class="card-text"></p>
-    <a href="appointment" class="btn btn-primary">Go somewhere</a>
+    <a href="appointment" class="btn btn-primary">click here</a>
   </div>
 </div>
 <div class="card" style="width: 18rem;display:inline-block">
@@ -80,7 +81,7 @@ body {
   <div class="card-body">
     <h5 class="card-title">Send Feedback</h5>
     <p class="card-text"></p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
+    <a href="#" class="btn btn-primary">click here</a>
   </div>
 </div>
 <div class="card" style="width: 18rem;display:inline-block">
@@ -88,7 +89,7 @@ body {
   <div class="card-body">
     <h5 class="card-title">Check Hospitals Near You</h5>
     <p class="card-text"></p>
-    <a href="hospital" class="btn btn-primary">Go somewhere</a>
+    <a href="hospital" class="btn btn-primary">click here</a>
   </div>
 </div>
     </div>
@@ -99,7 +100,7 @@ body {
   <div class="card-body">
     <h5 class="card-title">Check Laboratories Around You</h5>
     <p class="card-text"></p>
-    <a href="labs" class="btn btn-primary">Go somewhere</a>
+    <a href="labs" class="btn btn-primary">click here</a>
   </div>
 </div>
 <div class="card" style="width: 18rem;display:inline-block">
@@ -107,7 +108,7 @@ body {
   <div class="card-body">
     <h5 class="card-title">Check Ambulance Numbers</h5>
     <p class="card-text"></p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
+    <a href="ambulance" class="btn btn-primary">click here</a>
   </div>
 </div>
 </div>
