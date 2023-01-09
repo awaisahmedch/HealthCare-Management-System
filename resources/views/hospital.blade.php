@@ -9,6 +9,7 @@
     <title>hospitals</title>
 </head>
 <body>
+  <h3> Islamabad <style> h3{text-align: center}</style></h3>
 <div class="d-flex justify-content-around my-3">
 <div class="card" style="width: 18rem;display:inline-block">
   <img src="https://www.ilmstan.com/wp-content/uploads/2021/01/Fauji-Foundation-Hospital-Jobs.jpg" style="width:100%;" class="card-img-top text-center" alt="...">
@@ -52,6 +53,79 @@
   
 </div>
 <div class="card" style="width: 18rem;display:inline-block">
+  <img src="https://contactnumbers.pk/wp-content/uploads/2020/05/maroof-international-hospital.jpg" style="width:100%;height: 80px;" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Maroof International Hospital</h5>
+    <p class="card-text"><p>24/7 SERVICES</p>
+                    <p> City:Islamabad</p>
+                    <p>   Helpline:(051) 111 644 911</p>
+                    <p> Email: info@maroof.com.pk</p>
+                    <p>Address: Street 10, F-10 Markaz F 10/3 F-10, Islamabad, Islamabad Capital Territory 04412</p>
+                    <p> <strong>Website:<a href="https://www.maroof.com.pk/">Click Here </a></strong></p>
+                    <p><strong>
+                        Location:<a href="https://www.google.com/maps/dir//MAROOF+International+Hospital,+Street+10,+F-10+Markaz+F+10%2F3+Islamabad,+04412/@33.6756138,72.7226122,11z/data=!4m8!4m7!1m0!1m5!1m1!1s0x38dfbe6b77fc7279:0x855a61d1ef5e9def!2m2!1d73.0119011!2d33.6975079">Click Here </a>
+                    </strong></p>
+    </p>
+  </div>
+</div>
+</div>
+<h3> Taxila </h3>
+<div class="d-flex justify-content-around my-3">
+<div class="card" style="width: 18rem;display:inline-block">
+  <img src="https://www.wahinternational.com/images/pic_five.PNG" style="width:100%;height: 80px;" class="card-img-top text-center" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Wah International Hospital, Taxila</h5>
+    <p class="card-text"><p>24/7 SERVICES</p>
+                    <p> City:Taxila</p>
+                    <p>  Helpline: (051) 4544441</p>
+                    <p> Email: Not available</p>
+                    <p>Address: Grand Trunk Rd, Taxila, Rawalpindi, Punjab 47080</p>
+                    <p> <strong>Website:<a href="https://www.wahinternational.com/">Click Here </a></strong></p>
+                    <p><strong>
+                        Location:<a href="https://www.google.com/maps/dir//Grand+Trunk+Rd,+Taxila,+Rawalpindi,+Punjab+47080/@33.7329868,72.734745,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x38dfa581c6b18ea9:0x6007efcf09c7259!2m2!1d72.8047851!2d33.7330066">Click Here </a>
+                    </strong></p>
+    </p>
+  </div>
+</div>
+<div class="card" style="width: 18rem;display:inline-block">
+  <img src="https://chtaxila.com/images/im06.jpg" style="width:100%;height: 80px;" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Christian Hospital Taxila</h5>
+    <p class="card-text"><p>24/7 SERVICES</p>
+                    <p> City:Taxila</p>
+                    <p> Helpline: (051) 4535091</p> 
+                    <p> Email: Not available</p>
+                    <p>Address: Faisal Shaheed Road, Taxila, Rawalpindi, Punjab 47080</p>
+                    <p> <strong>Website:<a href="https://www.chtaxila.com/">Click Here </a></strong></p>
+                    <p><strong>
+                        Location:<a href="https://www.google.com/maps/dir//Christian+Hospital+Taxila,+Faisal+Shaheed+Road%D8%8C+Taxila,+Rawalpindi,+Punjab+47080%E2%80%AD/@33.7384254,72.7766634,13z/data=!4m8!4m7!1m0!1m5!1m1!1s0x38dfa6a7472b9943:0xb9ccd12d9e802053!2m2!1d72.8397317!2d33.7462826">Click Here </a>
+                    </strong></p>
+    </p>
+  </div>
+  
+</div>
+<div class="card" style="width: 18rem;display:inline-block">
+  <img src="https://contactnumbers.pk/wp-content/uploads/2020/05/maroof-international-hospital.jpg" style="width:100%;height: 80px;" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Maroof International Hospital</h5>
+    <p class="card-text"><p>24/7 SERVICES</p>
+                    <p> City:Islamabad</p>
+                    <p>   Helpline:(051) 111 644 911</p>
+                    <p> Email: info@maroof.com.pk</p>
+                    <p>Address: Street 10, F-10 Markaz F 10/3 F-10, Islamabad, Islamabad Capital Territory 04412</p>
+                    <p> <strong>Website:<a href="https://www.maroof.com.pk/">Click Here </a></strong></p>
+                    <p><strong>
+                        Location:<a href="https://www.google.com/maps/dir//MAROOF+International+Hospital,+Street+10,+F-10+Markaz+F+10%2F3+Islamabad,+04412/@33.6756138,72.7226122,11z/data=!4m8!4m7!1m0!1m5!1m1!1s0x38dfbe6b77fc7279:0x855a61d1ef5e9def!2m2!1d73.0119011!2d33.6975079">Click Here </a>
+                    </strong></p>
+    </p>
+  </div>
+</div>
+</div>
+
+
+
+<!-- </div>
+<div class="card" style="width: 18rem;display:inline-block">
   <img src="https://th.bing.com/th/id/OIP.U14MhbFtG2HkDnjVwulvUgAAAA?pid=ImgDet&rs=1" style="width:100%;" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">Al-Shifa Trust Eye Hospital Rawalpindi</h5>
@@ -59,15 +133,13 @@
                     <p> City:Rawalpindi</p>
                     <p>   Helpline: +92 51 5487821</p>
                     <!-- <p> FAX: (+92)-51-5788167</p> -->
-                    <p> Email: info@alshifaeye.org</p>
+                    <!-- <p> Email: info@alshifaeye.org</p>
                     <p> <strong>Website:<a href="https://alshifaeye.org/">Click Here </a></strong></p>
                     <p><strong>
                         Location:<a href="https://www.bing.com/local?lid=YN8145x17879823109374049413&id=YN8145x17879823109374049413&q=Al-Shifa+Trust+Eye+Hospital+Rawalpindi&name=Al-Shifa+Trust+Eye+Hospital+Rawalpindi&cp=33.559417724609375%7e73.0920639038086&ppois=33.559417724609375_73.0920639038086_Al-Shifa+Trust+Eye+Hospital+Rawalpindi">Click Here </a>
                     </strong></p>
     </p>
-    <!-- <a href="#" class="btn btn-primary">Go somewhere</a> -->
   </div>
-</div>
-</div>
+</div> --> 
 </body>
 </html>

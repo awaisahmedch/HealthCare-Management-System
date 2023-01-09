@@ -1,7 +1,9 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\UserController;
 use App\Http\Controllers\Database;
+// use App\Http\Controllers\mycontroller;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -38,6 +40,9 @@ Route::get("profile", function(){
 Route::get("labs", function(){
     return view("labs");
 });
+
+
+Route::get('users', [UserController::class, 'index'])->name('users.index');
 Route::get("ambulance", function(){
     return view("ambulance");
 });
@@ -48,6 +53,13 @@ Route::get("logout" ,function(){
     session()->pull('name');
     return redirect("/");
 });
+Route::get("users", function(){
+    return view("users");
+});
+//  Route::view('index','insertRead');
+// Route::post('insertData',[mycontroller::class ,'insertRead']);
+// Route::get('wel',[mycontroller::class,'readdata']);
+
 Route::post("signup", [Database::class, "addData"]);
 Route::get("signin", [Database::class, "login"]);
 Route::get("del", [Database::class, "delete"]);

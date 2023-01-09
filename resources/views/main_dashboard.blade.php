@@ -39,7 +39,7 @@
   <div class="card-body">
     <!-- <h5 class="card-title">Patient Login</h5> -->
     <p class="card-text"></p>
-    <a href="#" class="btn btn-primary"><b>check feedback</b></a>
+    <a href="users" class="btn btn-primary"><b>data table</b></a>
   </div>
 </div>
 </div>

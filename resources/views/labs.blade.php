@@ -21,7 +21,7 @@
     <p><b> Address:</b> HMC Rd, Taxila, Rawalpindi, Punjab 47080</p>
     <p><b> website:</b> https://www.excel-labs.com/</p>
     <p> <strong>website:<a href="https://www.excel-labs.com/">excel-labs.com </a></strong></p>
-    <p><strong>Location:<a href="https://www.google.com/maps/dir/33.7416785,72.7836867/Excel+Lab+-+Taxila,+HMC+Rd,+Taxila,+Rawalpindi,+Punjab+47080/@33.7439776,72.7778054,14z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x38dfa42024827131:0xe9afc4f78963e466!2m2!1d72.8061907!2d33.7527127">Click Here </a></strong></p>
+    <p><strong>Location:<a href="https://www.google.com/maps/dir//Excel+Lab+-+Taxila,+HMC+Rd,+Taxila,+Rawalpindi,+Punjab+47080/@33.7444532,72.7774027,14z/data=!4m8!4m7!1m0!1m5!1m1!1s0x38dfa42024827131:0xe9afc4f78963e466!2m2!1d72.8061907!2d33.7527127">Click Here </a></strong></p>
     </p>
   </div>
 </div>
@@ -36,7 +36,7 @@
     <p><b> Phone:</b> (051) 4542009</p>
     <p><b> Address:</b> Al-shifa Medical Center, HMC Rd, Taxila, Rawalpindi, Punjab 47080</p>
     <p> <strong>website:<a href="https://www.medask.com.pk/">medask.com.pk </a></strong></p>
-    <p><strong>Location:<a href="https://www.google.com/maps/dir/33.7416763,72.7836865/MedAsk+Lab+Collection+Center,+Al-shifa+Medical+Center,+HMC+Rd,+Taxila,+Rawalpindi,+Punjab+47080/@33.748045,72.7782087,14z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x38dfa52d0b46caa3:0x1ed65b7f9fc74dc0!2m2!1d72.8078033!2d33.7589372">Click Here </a></strong></p>
+    <p><strong>Location:<a href="https://www.google.com/maps/dir//MedAsk+Lab+Collection+Center,+Al-shifa+Medical+Center,+HMC+Rd,+Taxila,+Rawalpindi,+Punjab+47080/@33.748045,72.7782087,14z/data=!4m8!4m7!1m0!1m5!1m1!1s0x38dfa52d0b46caa3:0x1ed65b7f9fc74dc0!2m2!1d72.8078033!2d33.7589372">Click Here </a></strong></p>
     </p>
   </div>
 </div>
@@ -51,7 +51,7 @@
     <p><b> Phone:</b> 0310 5032327</p>
     <p><b> Address:</b> PRW3+RRH, Faisal Shaheed Road, near Overhead bridge, Taxila, Rawalpindi, Punjab</p>
     <p> <strong>website:</strong> not available </p>
-    <p><strong>Location:<a href="https://www.google.com/maps/dir/33.7416763,72.783681/PRW3%2BRRH+Muzaffar+Khan+Pathology+Lab,+Faisal+Shaheed+Road,+near+Overhead+bridge,+Taxila,+Rawalpindi,+Punjab/@33.7413673,72.7853688,15z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x38dfa5063ec58197:0x3b0833718b75d505!2m2!1d72.8046154!2d33.7470573">Click Here </a></strong></p>
+    <p><strong>Location:<a href="https://www.google.com/maps/dir//PRW3%2BRRH+Muzaffar+Khan+Pathology+Lab,+Faisal+Shaheed+Road,+near+Overhead+bridge,+Taxila,+Rawalpindi,+Punjab/@33.7421142,72.7853688,15z/data=!4m8!4m7!1m0!1m5!1m1!1s0x38dfa5063ec58197:0x3b0833718b75d505!2m2!1d72.8046154!2d33.7470573">Click Here </a></strong></p>
   </p>
   </div>
 </div>
@@ -66,7 +66,7 @@
     <p><b> Phone:</b> (051) 4543037</p>
     <p><b> Address:</b>meezan bank, Medi Tech Laboratories, shop no#5 nabi plaza near, Taxila, Rawalpindi, Punjab</p>
     <p> <strong>website:</strong> not available </p>
-    <p><strong>Location:<a href="https://www.google.com/maps/dir/33.7416763,72.783681/MEDI+TECH+LABORATORIES,+meezan+bank,+Medi+Tech+Laboratories,+shop+no%235+nabi+plaza+near,+Taxila,+Rawalpindi,+Punjab/@33.7414894,72.7766634,13z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x38dfa5aa48f6e1cd:0x40c9e051cb673fe6!2m2!1d72.8397317!2d33.7462826">Click Here </a></strong></p>
+    <p><strong>Location:<a href="https://www.google.com/maps/dir//MEDI+TECH+LABORATORIES,+meezan+bank,+Medi+Tech+Laboratories,+shop+no%235+nabi+plaza+near,+Taxila,+Rawalpindi,+Punjab/@33.7414894,72.7766634,13z/data=!4m8!4m7!1m0!1m5!1m1!1s0x38dfa5aa48f6e1cd:0x40c9e051cb673fe6!2m2!1d72.8397317!2d33.7462826">Click Here </a></strong></p>
   </p>
   </div>
 </div>
